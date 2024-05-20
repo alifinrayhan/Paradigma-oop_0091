@@ -36,3 +36,11 @@ public:
     }
 
 };
+
+int main() {
+    pelajar siswa("andi laksono", "SMKN 1 Bantul");
+    cout << siswa1.perkenalan();
+    cout << "Hasil = " << siswa1.jumlah(10, 90) << endl;
+
+    return 0;
+}
