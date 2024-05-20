@@ -10,7 +10,7 @@ public:
 
     }
     ~jantung() {
-        cout << "jnatung dimatikan\n";
+        cout << "jantung dimatikan\n";
     }    
 };
 #endif
