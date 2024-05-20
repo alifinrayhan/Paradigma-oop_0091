@@ -11,3 +11,4 @@ public:
         cout << "Anak \"" << nama << "\" Tidak ada";
     }    
 };
+#endif
