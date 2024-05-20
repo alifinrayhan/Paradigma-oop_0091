@@ -19,3 +19,9 @@ public:
 
     }    
 };
+
+int main() {
+    Mahasiswa mhs(12, "Asroni", 90.5);
+
+    return 0;
+}
